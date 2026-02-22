@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on Django<br>👯 I’m looking to collaborate on Back-End projects<br>🌱 I’m currently learning Django, Redis, Docker<br>💬 Ask me about my self<br>⚡ Fun fact "The more you code, the more you become addicted to it." <br/>
+🔭 I’m currently working on Django<br>👯 I’m looking to collaborate on Back-End projects<br>🌱 I’m currently learning Django, Redis, Docker<br>💬 Ask me about python and Django<br>⚡ Fun fact "The more you code, the more you become addicted to it." <br/>
 
 ## 🌐 Socials: 
 
