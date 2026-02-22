@@ -4,7 +4,7 @@
 
 ## 🌐 Socials: 
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sedmehdi200382@gmail.com) <br/> https://t.me/Amir_mahdi_kh_y
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sedmehdi200382@gmail.com) <br/> [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Amir_mahdi_kh_y)
 
 # 💻 Tech Stack: 
 
