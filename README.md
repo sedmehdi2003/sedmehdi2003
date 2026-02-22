@@ -1,18 +1,27 @@
 # 💫 About Me:
 
-🔭 I’m currently working on Django<br>👯 I’m looking to collaborate on Back-End projects<br>🌱 I’m currently learning Django, Redis, Docker<br>💬 Ask me about my self<br>⚡ Fun fact "The more you code, the more you become addicted to it."
+🔭 I’m currently working on Django<br>👯 I’m looking to collaborate on Back-End projects<br>🌱 I’m currently learning Django, Redis, Docker<br>💬 Ask me about my self<br>⚡ Fun fact "The more you code, the more you become addicted to it." <br/>
 
 ## 🌐 Socials: 
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sedmehdi200382@gmail.com) <br/> [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Amir_mahdi_kh_y)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sedmehdi200382@gmail.com) <br/>
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Amir_mahdi_kh_y) <br/>
 
 # 💻 Tech Stack: 
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) <br/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br/>
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) <br/>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br/>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br/>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br/> 
 
 # 📊 GitHub Stats: 
 
-![](https://github-readme-stats.vercel.app/api?username=sedmehdi2003&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=sedmehdi2003&theme=react&hide_border=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sedmehdi2003&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact) 
+![](https://github-readme-stats.vercel.app/api?username=sedmehdi2003&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sedmehdi2003&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sedmehdi2003&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact) <br/> 
 
 
 ### ✍️ Random Dev Quote
